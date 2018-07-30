@@ -1,0 +1,59 @@
+User Command: C:\Program Files\nodejs\node.exe,C:\Users\arjun\Documents\GHrepos\liri_bot\liri.js,spotify-song,wonderland
+
+LIRI Response:
+
+Usage:
+    node liri.js my-tweets
+    node liri.js spotify-this-song "<song_name>"
+    node liri.js movie-this "<movie_name>"
+    node liri.js do-what-it-says
+
+User Command: node liri.js spotify-this-song wonderland 
+
+LIRI Response:
+
+------------------------
+Song Information:
+------------------------
+
+Song Name: Your Body Is a Wonderland
+Artist: John Mayer
+Album: Room For Squares
+Preview Here: https://p.scdn.co/mp3-preview/7d1019b439ef1aae6d7f51d7e1d6d7a0ed94f1a6?cid=15c40bcca1684343ac42629ea5681829
+
+User Command: node liri.js movie-this life of pie 
+
+LIRI Response:
+
+------------------------
+Movie Information:
+------------------------
+
+Movie Title: Life of Pie
+Year Released: N/A
+IMBD Rating: N/A
+Country Produced: USA
+Language: N/A
+Plot: Violet sells perfume and tries kill herself at work. While recuperating at home, she hallucinates 80's rock icons.. She decides to write a metaphysical book about pie and falls in love with a man she is thinks is a demon.
+Actors: N/A
+Rotten Tomatoes Rating: undefined
+Rotten Tomatoes URL: undefined
+
+User Command: node liri.js movie-this shawshank redemption 
+
+LIRI Response:
+
+------------------------
+Movie Information:
+------------------------
+
+Movie Title: The Shawshank Redemption: Cast Interviews
+Year Released: 20 Sep 2004
+IMBD Rating: N/A
+Country Produced: UK
+Language: English
+Plot: Cast interviews (2:14:05): Tim Robbins (27:21), Morgan Freeman (20:54), Bob Gunton (37:45), William Saddler (32:24) and Clancy Brown(15:41)
+Actors: Clancy Brown, Morgan Freeman
+Rotten Tomatoes Rating: undefined
+Rotten Tomatoes URL: undefined
+
